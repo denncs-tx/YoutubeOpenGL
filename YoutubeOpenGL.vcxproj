@@ -170,6 +170,8 @@
     <ClInclude Include="VBO.h" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\opengl-tutorials\Resources\YoutubeOpenGL 10 - Specular Maps\planks.png" />
+    <Image Include="..\opengl-tutorials\Resources\YoutubeOpenGL 10 - Specular Maps\planksSpec.png" />
     <Image Include="..\opengl-tutorials\Resources\YoutubeOpenGL 6 - Textures\pop_cat.png" />
     <Image Include="..\opengl-tutorials\Resources\YoutubeOpenGL 7 - Going 3D\brick.png" />
   </ItemGroup>
